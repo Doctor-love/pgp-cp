@@ -4,8 +4,8 @@
 
 description = __doc__
 developers = ['Joel Rangsmo <joel@rangsmo.se>']
-license = 'GPLv2'
-version = '0.3'
+license = 'GPLv3'
+version = '0.3.1'
 
 try:
     import os

@@ -8,4 +8,5 @@ The script requires Python 2.7 and the third-party ["gnupg" module](https://pypi
 
 ## Disclaimer
 As stated above, this is a proof of concept and relies on external dependencies which have not been audited.  
-Therefore, it should seen as inspiration at the moment.  
+PGP is probably way more advanced than what's needed for this type of application.  
+Therefore, it should only be seen as inspiration at the moment.  
